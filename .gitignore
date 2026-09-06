@@ -1,7 +1,5 @@
-# Ghost 运行时数据
-runtime/content/data/
-runtime/content/logs/
-runtime/.ghost/
+# Ghost 运行时（整个目录，含安装包、数据库、日志、node_modules）
+runtime/
 
 # 环境变量
 .env
